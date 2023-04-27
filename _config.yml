@@ -6,26 +6,26 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Trey Thomas
+title: Senior Software Engineer
+email: trey@treythomas.codes
+website: https://treythomas.codes
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+#twitter_username: facespics
+github_username:  TreyThomasCodes
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
+#instagram_username: jameswgrant
+linkedin_username: trey-thomas-codes
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: globalmtb
+#youtube_username: globalmtb
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
@@ -48,7 +48,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  I'm Trey. <mark>I code.</mark>
 
   I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
@@ -113,7 +113,7 @@ content:
       ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 # references_title: References on request (Override references text)
 
 # Build settings
