@@ -46,11 +46,11 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
-  I'm Trey. <mark>I code.</mark>
+  I'm Trey. I might be a grizzled anime character. I definitely code.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I am most skilled in: <mark>C#</mark> and <mark>Eating Sushi</mark>
 
 content:
   - title: Projects # Title for the section
